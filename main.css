@@ -33,7 +33,7 @@ h1 {
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
+  width: 100%;
   display: block; /* Hide columns by default */
 }
 
