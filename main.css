@@ -58,4 +58,21 @@ h1 {
 }
 .rounded-img {
   border-radius: 50%;
+  margin-right: 10px;
+}
+
+.subject {
+  font-size: 2em;
+  color: #193aa9;
+  font-weight: bold;
+}
+
+.sub-subject {
+  padding-top: 10px;
+  font-size: 1em;
+  color: #193aa9;
+  font-weight: bold;
+}
+.title {
+  opacity: 0.8;
 }
